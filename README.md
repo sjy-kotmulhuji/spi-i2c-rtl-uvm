@@ -79,9 +79,9 @@
 
 ### SPI Master / Slave 설계
 
-|  SPI Master FSM | SPI Master ASM | SPI Slave ASM |
-|------|------|------|
-| <img width="850" height="309" alt="image" src="https://github.com/user-attachments/assets/432f4dee-aa78-40f4-a137-d4d5c13efcf8" /> | <img width="800" height="795" alt="image" src="https://github.com/user-attachments/assets/e828c0ce-2633-445c-81c7-dc64f79802ae" /> | <img width="350" height="750" alt="image" src="https://github.com/user-attachments/assets/dacddb52-48f2-4790-b396-84c3bee6da3b" /> |
+|  SPI Master FSM  | SPI Slave ASM |
+|------|------|
+| <img width="350" height="300" alt="image" src="https://github.com/user-attachments/assets/d7fbf27f-878d-45c6-b834-1151c975e450" /> | <img width="350" height="750" alt="image" src="https://github.com/user-attachments/assets/dacddb52-48f2-4790-b396-84c3bee6da3b" /> |
 
 ---
 
@@ -116,7 +116,8 @@
 
 **Block Diagram**
 
-<img width="2980" height="1407" alt="image" src="https://github.com/user-attachments/assets/238af835-aa69-48f7-b8c3-c70c097400f2" />
+<img width="276" height="145" alt="image" src="https://github.com/user-attachments/assets/ea8eb658-9d95-44a3-ad34-4a1678671100" />
+
 
 - **구성** :  2개의 Basys3 보드(Master/Slave)
 - **Write** : Master의 8bit 스위치 데이터를 Slave가 받아 FND에 표현
@@ -215,7 +216,9 @@ STOP
 ### FPGA 보드 구성
 
 **Block Diagram**
-<img width="2282" height="962" alt="image" src="https://github.com/user-attachments/assets/d041ae8a-310c-4190-bc93-00511a0668c4" />
+
+<img width="260" height="145" alt="image" src="https://github.com/user-attachments/assets/e2b345ba-53db-4824-8c02-cc03e7535ca5" />
+
 
 - **구성** : 2개의 Basys3 보드(Master/Slave), Pull-up 저항
 - **Write** : Master의 스위치 8개(`sw[7:0]`) 값을 Slave가 받아 LED 8개에 표현
