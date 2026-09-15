@@ -81,7 +81,7 @@
 
 |  SPI Master FSM  | SPI Slave ASM |
 |------|------|
-| <img width="350" height="300" alt="image" src="https://github.com/user-attachments/assets/d7fbf27f-878d-45c6-b834-1151c975e450" /> | <img width="350" height="750" alt="image" src="https://github.com/user-attachments/assets/dacddb52-48f2-4790-b396-84c3bee6da3b" /> |
+| <img width="350" height="300" alt="image" src="https://github.com/user-attachments/assets/d7fbf27f-878d-45c6-b834-1151c975e450" /> | <img width="500" height="850" alt="image" src="https://github.com/user-attachments/assets/892683c6-fe20-46d8-bfc2-0e2159971052" /> |
 
 ---
 
