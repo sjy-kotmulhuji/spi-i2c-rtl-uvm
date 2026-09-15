@@ -116,7 +116,7 @@
 
 **Block Diagram**
 
-<img width="276" height="145" alt="image" src="https://github.com/user-attachments/assets/ea8eb658-9d95-44a3-ad34-4a1678671100" />
+<img width="500" height="260" alt="image" src="https://github.com/user-attachments/assets/ea8eb658-9d95-44a3-ad34-4a1678671100" />
 
 
 - **구성** :  2개의 Basys3 보드(Master/Slave)
@@ -217,7 +217,7 @@ STOP
 
 **Block Diagram**
 
-<img width="260" height="145" alt="image" src="https://github.com/user-attachments/assets/e2b345ba-53db-4824-8c02-cc03e7535ca5" />
+<img width="500" height="260" alt="image" src="https://github.com/user-attachments/assets/e2b345ba-53db-4824-8c02-cc03e7535ca5" />
 
 
 - **구성** : 2개의 Basys3 보드(Master/Slave), Pull-up 저항
